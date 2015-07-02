@@ -1,0 +1,55 @@
+<html>
+
+	<head>
+		<title>Google Home Page</title>
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="main.css">
+		<meta charset="UTF-8">
+	</head>
+
+
+	<body>
+	<div id="wrapper">
+		<nav id="nav">
+			<ul>
+				<li>Google+</li>
+				<li>Gmail</li>
+				<li>Images</li>
+			</ul>
+		</nav>
+
+		<div id="content">
+
+			<img src="http://codeboxr.com/wp-content/uploads/2012/06/6_logo_predesign.jpg">
+
+			<form action="--" method="get">
+
+				<div>
+					<input id="searchbar" type="text">
+				</div>
+
+				<div>
+					<button id="button" type="button">Google Search</button>
+					<button type="button">I'm feeling lucky</button>
+				</div>
+
+			</form>
+
+		</div>
+
+		<div id="footer">		
+			<ul>
+				<li>Advertising</li>
+				<li>Business</li>
+				<li id="about">About</li>
+				<li>Privacy</li>
+				<li>Terms</li>
+				<li>settings</li>
+			</ul>
+		</div>	
+	</div>
+		
+	
+	</body>
+
+</html>
